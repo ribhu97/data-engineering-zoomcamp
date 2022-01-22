@@ -1,0 +1,7 @@
+services:
+  pgdatabase:
+    image: postgres:13
+  pgadmin:
+    #
+  data_ingestion:
+    #
