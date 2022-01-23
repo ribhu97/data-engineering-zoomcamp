@@ -1,0 +1,3 @@
+*.csv
+/week1/docker_sql/ny_postgres_data/*
+
